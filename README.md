@@ -54,5 +54,19 @@ Nah Setelah itu, Secara Otomatis file bernama "package.json" terbuat.
 #
 #### 4. Setelah itu buat folder baru bernama "views" , dan buatlah file baru didalamnya bernama "index.ejs"
 ![Alt text](https://github.com/Syihabuddinsanni/Modul1_NodeJS/blob/master/SS/New%20Views.PNG)
-code :
-- [x] [Copy Code Index.ejs ](https://github.com/Syihabuddinsanni/Modul1_NodeJS/blob/master/Code/views/index.ejs)
+
+#### 5. Setelah itu buat file javascript baru bernama "server.js" seperti berikut
+![Alt text](https://github.com/Syihabuddinsanni/Modul1_NodeJS/blob/master/SS/Server%20js.PNG)
+
+## code :
+- [x] [Code Index.ejs ](https://github.com/Syihabuddinsanni/Modul1_NodeJS/blob/master/Code/views/index.ejs)
+- [x] [Code server.js ](https://github.com/Syihabuddinsanni/Modul1_NodeJS/blob/master/Code/server.js)
+
+#### 6. Setelah selesai Buka terminal dan tuliskan code berikut tanpa [ " ]
+    "node server.js"
+![Alt text](https://github.com/Syihabuddinsanni/Modul1_NodeJS/blob/master/SS/node%20server%20js.PNG)
+
+#### 7. Setelah itu, Buka browser dan ketik URL "localhost:8080/", dan outputnya akan keluar :D
+
+![Alt text](https://github.com/Syihabuddinsanni/Modul1_NodeJS/blob/master/SS/Screenshot%20(983).png)
+    
