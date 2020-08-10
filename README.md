@@ -16,3 +16,18 @@ Setelah proses install selesai, anda pun dapat menjalankan Node.js sekarang! Unt
 
 
 ![Alt text](https://github.com/Syihabuddinsanni/Modul1_NodeJS/blob/master/SS/Node%20Version.PNG)
+
+#
+## BASIC NODE JS WEB APPLICATION
+Ini adalah aplikasi web Node.js yang menggunakan EJS sebagai rendering template websitenya. Dan kitapun telah memasuki kawasan NPM , dan juga kawasan tingkat lanjut di pemrograman web Node.js.
+
+1. Buat Folder Baru 
+2. Kemudian Jalankan Terminal yang sudah di ganti direktorinya
+#### Gimana cara ganti direktorinya ?
+#
+    CD : Berfungsi Untuk Masuk Ke direktori yang dituju
+    ls : Untuk Menampilkan Direktori yang ada
+    cd + nama direktori = Masuk Ke direktori yang dituju :v
+#
+
+   
