@@ -44,9 +44,12 @@ Nah Setelah itu, Secara Otomatis file bernama "package.json" terbuat.
 > Fungsinya yaitu sebagai manifesto dari Node.js dan mengandung _mentada_ projek Node.js tersebut
 #
 
-#### 3. Selanjutnya kita akan melakukan instalasi terhadap _dependencies_ tersebut dengan menjalankan code berikutTanpa [ " ]
+#### 3. Selanjutnya kita akan melakukan instalasi terhadap _dependencies_ tersebut dengan menjalankan code berikut Tanpa [ " ]
 
     "npm install ejs express semantic-ui-css --save"
 
    #
 ![Alt text](https://github.com/Syihabuddinsanni/Modul1_NodeJS/blob/master/SS/Install%20Semantic.PNG)
+
+#
+#### Setelah itu buat folder baru bernama *views* , dan buatlah file baru didalamnya bernama *index.ejs*
