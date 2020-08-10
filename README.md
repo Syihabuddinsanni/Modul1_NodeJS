@@ -21,15 +21,14 @@ Setelah proses install selesai, anda pun dapat menjalankan Node.js sekarang! Unt
 ## BASIC NODE JS WEB APPLICATION
 Ini adalah aplikasi web Node.js yang menggunakan EJS sebagai rendering template websitenya. Dan kitapun telah memasuki kawasan NPM , dan juga kawasan tingkat lanjut di pemrograman web Node.js.
 
-1. Buat Folder Baru 
-2. Kemudian Jalankan Terminal yang sudah di ganti direktorinya Ke Folder baru tadi 
-#### Gimana cara ganti direktorinya ?
+#### 1. Buat Folder Baru 
+#### 2. Kemudian Jalankan Terminal yang sudah di ganti direktorinya Ke Folder baru tadi 
+### Gimana cara ganti direktorinya ?
     CD : Berfungsi Untuk Masuk Ke direktori yang dituju
     ls : Untuk Menampilkan Direktori yang ada
     cd + nama direktori = Masuk Ke direktori yang dituju :v
 
-Lalu ketikan Commands berikut Tanpa [ " ]
-#
+#### Lalu ketikan Commands berikut Tanpa [ " ]
      "npm init --yes"
 #
 
@@ -45,9 +44,9 @@ Nah Setelah itu, Secara Otomatis file bernama "package.json" terbuat.
 > Fungsinya yaitu sebagai manifesto dari Node.js dan mengandung _mentada_ projek Node.js tersebut
 #
 
-##### 3. Selanjutnya kita akan melakukan instalasi terhadap _dependencies_ tersebut dengan menjalankan code berikut
-Tanpa [ " ]
+#### 3. Selanjutnya kita akan melakukan instalasi terhadap _dependencies_ tersebut dengan menjalankan code berikutTanpa [ " ]
 
     "npm install ejs express semantic-ui-css --save"
 
-   
+   #
+![Alt text](https://github.com/Syihabuddinsanni/Modul1_NodeJS/blob/master/SS/Install%20Semantic.PNG)
