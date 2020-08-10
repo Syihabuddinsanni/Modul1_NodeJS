@@ -45,7 +45,7 @@ Nah Setelah itu, Secara Otomatis file bernama "package.json" terbuat.
 > Fungsinya yaitu sebagai manifesto dari Node.js dan mengandung _mentada_ projek Node.js tersebut
 #
 
-3. Selanjutnya kita akan melakukan instalasi terhadap _dependencies_ tersebut dengan menjalankan code berikut
+##### 3. Selanjutnya kita akan melakukan instalasi terhadap _dependencies_ tersebut dengan menjalankan code berikut
 Tanpa [ " ]
 
     "npm install ejs express semantic-ui-css --save"
