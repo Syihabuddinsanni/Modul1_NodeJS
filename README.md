@@ -22,21 +22,26 @@ Setelah proses install selesai, anda pun dapat menjalankan Node.js sekarang! Unt
 Ini adalah aplikasi web Node.js yang menggunakan EJS sebagai rendering template websitenya. Dan kitapun telah memasuki kawasan NPM , dan juga kawasan tingkat lanjut di pemrograman web Node.js.
 
 1. Buat Folder Baru 
-2. Kemudian Jalankan Terminal yang sudah di ganti direktorinya Ke Folder baru tadi Lalu ketikan Commands berikut Tanpa [ " ]
-#
-     "npm init --yes"
-#
-
+2. Kemudian Jalankan Terminal yang sudah di ganti direktorinya Ke Folder baru tadi 
 #### Gimana cara ganti direktorinya ?
     CD : Berfungsi Untuk Masuk Ke direktori yang dituju
     ls : Untuk Menampilkan Direktori yang ada
     cd + nama direktori = Masuk Ke direktori yang dituju :v
-![Alt text](https://github.com/Syihabuddinsanni/Modul1_NodeJS/blob/master/SS/Package%20Json.PNG)
+
+Lalu ketikan Commands berikut Tanpa [ " ]
+#
+     "npm init --yes"
+#
+
+
+    
+![Alt text](https://github.com/Syihabuddinsanni/Modul1_NodeJS/blob/master/SS/Npm%20init%20yes.PNG)
+
 #
 Nah Setelah itu, Secara Otomatis file bernama "package.json" terbuat.
 ### Hah apa itu "package.json" ??
 > Fungsinya yaitu sebagai manifesto dari Node.js dan mengandung _mentada_ projek Node.js tersebut
-![Alt text](https://github.com/Syihabuddinsanni/Modul1_NodeJS/blob/master/SS/Npm%20init%20yes.PNG)
-
+#
+![Alt text](https://github.com/Syihabuddinsanni/Modul1_NodeJS/blob/master/SS/Package%20Json.PNG)
 
    
