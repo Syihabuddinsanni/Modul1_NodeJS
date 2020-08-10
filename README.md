@@ -52,6 +52,7 @@ Nah Setelah itu, Secara Otomatis file bernama "package.json" terbuat.
 ![Alt text](https://github.com/Syihabuddinsanni/Modul1_NodeJS/blob/master/SS/Install%20Semantic.PNG)
 
 #
-#### Setelah itu buat folder baru bernama "views" , dan buatlah file baru didalamnya bernama "index.ejs"
+#### 4. Setelah itu buat folder baru bernama "views" , dan buatlah file baru didalamnya bernama "index.ejs"
 ![Alt text](https://github.com/Syihabuddinsanni/Modul1_NodeJS/blob/master/SS/New%20Views.PNG)
-
+code :
+- [x] [Copy Code Index.ejs ](https://github.com/Syihabuddinsanni/Modul1_NodeJS/blob/master/Code/views/index.ejs)
