@@ -39,9 +39,10 @@ Lalu ketikan Commands berikut Tanpa [ " ]
 
 #
 Nah Setelah itu, Secara Otomatis file bernama "package.json" terbuat.
-### Hah apa itu "package.json" ??
+
+![Alt text](https://github.com/Syihabuddinsanni/Modul1_NodeJS/blob/master/SS/Package%20Json.PNG)
+### apa itu "package.json" ??
 > Fungsinya yaitu sebagai manifesto dari Node.js dan mengandung _mentada_ projek Node.js tersebut
 #
-![Alt text](https://github.com/Syihabuddinsanni/Modul1_NodeJS/blob/master/SS/Package%20Json.PNG)
 
    
