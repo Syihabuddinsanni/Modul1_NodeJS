@@ -26,10 +26,17 @@ Ini adalah aplikasi web Node.js yang menggunakan EJS sebagai rendering template 
 #
      "npm init --yes"
 #
+
 #### Gimana cara ganti direktorinya ?
     CD : Berfungsi Untuk Masuk Ke direktori yang dituju
     ls : Untuk Menampilkan Direktori yang ada
     cd + nama direktori = Masuk Ke direktori yang dituju :v
-Nah Setelah itu, 
+![Alt text](https://github.com/Syihabuddinsanni/Modul1_NodeJS/blob/master/SS/Package%20Json.PNG)
+#
+Nah Setelah itu, Secara Otomatis file bernama "package.json" terbuat.
+### Hah apa itu "package.json" ??
+> Fungsinya yaitu sebagai manifesto dari Node.js dan mengandung _mentada_ projek Node.js tersebut
+![Alt text](https://github.com/Syihabuddinsanni/Modul1_NodeJS/blob/master/SS/Npm%20init%20yes.PNG)
+
 
    
