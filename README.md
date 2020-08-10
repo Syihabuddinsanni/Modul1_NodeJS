@@ -23,6 +23,7 @@ Ini adalah aplikasi web Node.js yang menggunakan EJS sebagai rendering template 
 
 1. Buat Folder Baru 
 2. Kemudian Jalankan Terminal yang sudah di ganti direktorinya Ke Folder baru tadi Lalu ketikan Commands berikut :
+     
      "npm init --yes"
 #
 #### Gimana cara ganti direktorinya ?
