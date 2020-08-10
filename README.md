@@ -23,8 +23,8 @@ Ini adalah aplikasi web Node.js yang menggunakan EJS sebagai rendering template 
 
 1. Buat Folder Baru 
 2. Kemudian Jalankan Terminal yang sudah di ganti direktorinya
-#### Gimana cara ganti direktorinya ?
 #
+#### Gimana cara ganti direktorinya ?
     CD : Berfungsi Untuk Masuk Ke direktori yang dituju
     ls : Untuk Menampilkan Direktori yang ada
     cd + nama direktori = Masuk Ke direktori yang dituju :v
