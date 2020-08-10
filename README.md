@@ -47,7 +47,7 @@ Nah Setelah itu, Secara Otomatis file bernama "package.json" terbuat.
 
 3. Selanjutnya kita akan melakukan instalasi terhadap _dependencies_ tersebut dengan menjalankan code berikut
 Tanpa [ " ]
-#
+
     "npm install ejs express semantic-ui-css --save"
 
    
